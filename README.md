@@ -1,5 +1,5 @@
 # Virtual-Air-Canvas
-**Air Canvas** is an AI-powered virtual drawing tool that enables users to sketch on a digital canvas using only hand gestures. Built with MediaPipe and OpenCV, the application uses real-time computer vision to detect hand landmarks via webcam and map them to drawing actions like drawing, erasing, or selecting shapes — no mouse or touchscreen needed!
+**Air Canvas** is an AI-powered virtual drawing tool that enables users to sketch on a digital canvas using only hand gestures. Built with MediaPipe and OpenCV, the application uses real-time computer vision to detect hand landmarks via webcam and map them to drawing actions like drawing, erasing and selecting shapes —  know what no mouse or touchscreen needed!
 
 ---
 
@@ -35,3 +35,7 @@ now you can run the project directly from your terminal:
 ```bash
 python canvas.py
 ```
+## Author
+**Srimathy**  
+📧 [srimathy226@gmail.com](mailto:srimathy226@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/srimathyofficial/)
